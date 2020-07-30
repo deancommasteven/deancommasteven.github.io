@@ -1,1 +1,10 @@
-<meta http-equiv="Refresh" content="0; url='https://duckduckgo.com'" />
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>cloudpost</title>
+      <meta http-equiv="refresh" content= "0; url=https://duckduckgo.com" />
+   </head>
+   <body>
+      <p>cloudpost</p>
+   </body>
+</html>
