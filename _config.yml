@@ -4,7 +4,6 @@ url: "https://cloudpost.online" # the base hostname & protocol for your site, e.
 github_username:  deancommasteven
 
 # Build settings
-#theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal
+theme: minima
 #plugins:
 #  - jekyll-feed
